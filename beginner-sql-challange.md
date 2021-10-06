@@ -1,7 +1,35 @@
+# SQL Code Challanges (Restaurant Only)
 
+## Summary 
+Scott Simpson presents SQL challenge for a restaurant website that takes reservations and online orders. After each challenge, Scott shares his solution.
 
+## Estimated time
+The estimated time is four hours.
+ - Media 30m
+ - Practice 3h
 
-##
+## Resources
+LinkedIn Learning - [SQL Code Challenges](https://www.linkedin.com/learning/sql-code-challenges/sql-code-challenges)
+
+## Sql Code Challanges
+Do the SQL challenges in the first chapter: *In the Restaurant.*  The second chapter: *At the library* includes challanges for using join tables.  This activity *does not* include chapter 2.
+
+At the end of the lesson, you should be able to write a SQL query for creating records, returning records, updating recordings, and deleting records from a database. 
+
+Some of the challanges require SQL concepts that may not have been previously covered, including 
+- Keywords LIKE, COUNT
+- Datetime field
+- Foriegn key
+
+There are a total of twelve challanges in the first chapter outlined in the table below. 
+
+If a problem is listed as *do it* you should complete this challenge through reviewing the previous material
+
+If a problem is listed as *try it* you should try to complete the challenge through reviewing previous material, but the concepts in the problem may not have been explicitly covered.
+
+If a problem is listed as *copy scott's solution*, think about how you would approach the solution, but you need knowledge not yet covered in classs to solve the problem.
+
+There are a total of twelve challanges in the first chapter outlined in the table below. 
 
 In the Restaurante
 | # | Problem | Category | Advice | 
@@ -14,8 +42,8 @@ In the Restaurante
 | 6 | Remove a customer record | Do it | Review previous training |
 | 7 | Log customer responses | Try it | Review previous training. You may implement a solution that does not use "select statements as the input for other queries" and instead used multiple queries  |
 | 8 | Look up reservations| Copy Scott's solution | You may look online about using the *LIKE* keyword |
-| 9 | Take a reservation | Copy Scott's solution | This required understandign data types for date and datetime |
-| 10 | Take a delivery order | Copy Scott's solution (or try it) | Requires understanding datetime  |
+| 9 | Take a reservation | Try it | Require ipnutting a datetime |
+| 10 | Take a delivery order | Try it | Requires understanding datetime  |
 | 11 | Create invitations for a party | Copy Scott's solution | Do you understand what Scott means by forign key?  Scott is updating a many to many table |
 | 12 | Prepare a report of your top five customers | Copy Scott's solution | Scott introduce the keyword COUNT |
 
